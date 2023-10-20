@@ -1,0 +1,48 @@
+<table class="styled-table">
+  <thead>
+    <tr>
+      <th>Select</th>
+      <th>Brand</th>
+      <th>Model</th>
+      <th>Price per Day</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let car of cars">
+      <td>
+        <input
+          type="radio"
+          name="selectedCar"
+          [(ngModel)]="selectedCar"
+          [value]="car"
+        />
+      </td>
+      <td>{{ car.brand }}</td>
+      <td>{{ car.model }}</td>
+      <td>{{ car.rentPerDay }}</td>
+    </tr>
+  </tbody>
+</table>
+<br />
+
+<input type="number" placeholder="Select Duration" [(ngModel)]="numberOfDays" />
+
+<div *ngIf="selectedCar">
+  <h2>Your Selected Car Details:</h2>
+  <p>Brand: {{ selectedCar.brand }}</p>
+  <p>Model: {{ selectedCar.model }}</p>
+  <p>Price per Day: {{ selectedCar.rentPerDay }}</p>
+  <p>Total Price: {{ calculateTotalPrice() }}</p>
+
+  <label>
+    <input type="checkbox" [(ngModel)]="acceptAgreement" />
+    I accept the rental agreement
+    ****Note-Once accepted cannot change it
+  </label>
+
+ 
+  <button (click)="addnew()" style="background-color: blue;"*ngIf="acceptAgreement" >Submit</button>
+</div>
+
+
+

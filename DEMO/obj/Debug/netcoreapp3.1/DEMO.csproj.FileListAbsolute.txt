@@ -1,0 +1,14 @@
+C:\Users\arjunkapoor\Desktop\DEMO\bin\Debug\netcoreapp3.1\DEMO.exe
+C:\Users\arjunkapoor\Desktop\DEMO\bin\Debug\netcoreapp3.1\DEMO.deps.json
+C:\Users\arjunkapoor\Desktop\DEMO\bin\Debug\netcoreapp3.1\DEMO.runtimeconfig.json
+C:\Users\arjunkapoor\Desktop\DEMO\bin\Debug\netcoreapp3.1\DEMO.runtimeconfig.dev.json
+C:\Users\arjunkapoor\Desktop\DEMO\bin\Debug\netcoreapp3.1\DEMO.dll
+C:\Users\arjunkapoor\Desktop\DEMO\bin\Debug\netcoreapp3.1\DEMO.pdb
+C:\Users\arjunkapoor\Desktop\DEMO\obj\Debug\netcoreapp3.1\DEMO.csproj.AssemblyReference.cache
+C:\Users\arjunkapoor\Desktop\DEMO\obj\Debug\netcoreapp3.1\DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjunkapoor\Desktop\DEMO\obj\Debug\netcoreapp3.1\DEMO.AssemblyInfoInputs.cache
+C:\Users\arjunkapoor\Desktop\DEMO\obj\Debug\netcoreapp3.1\DEMO.AssemblyInfo.cs
+C:\Users\arjunkapoor\Desktop\DEMO\obj\Debug\netcoreapp3.1\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\arjunkapoor\Desktop\DEMO\obj\Debug\netcoreapp3.1\DEMO.dll
+C:\Users\arjunkapoor\Desktop\DEMO\obj\Debug\netcoreapp3.1\DEMO.pdb
+C:\Users\arjunkapoor\Desktop\DEMO\obj\Debug\netcoreapp3.1\DEMO.genruntimeconfig.cache

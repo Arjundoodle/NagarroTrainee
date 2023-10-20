@@ -1,0 +1,23 @@
+
+
+<form [formGroup]="AddCar" (ngSubmit)="NewCar()" class="border p-3 rounded-3" >
+    <h1 style="color: white;">Add Car</h1>
+    <div class="form-group">
+      <label for="Brand"></label>
+      <input style="background-color: whitesmoke;" type="text" class="form-control" id="Brand" placeholder="Brand" formControlName="Brand">
+    </div>
+    <div class="form-group">
+      <label for="Model"></label>
+      <input style="background-color: whitesmoke;" type="email" class="form-control" id="Model" formControlName="Model" placeholder="Model">
+    </div>
+    <div class="form-group">
+        <label for="RentPerDay"></label>
+        <input style="background-color: whitesmoke;" type="text" class="form-control" id="RentPerDay" formControlName="RentPerDay" placeholder="RentPerDay">
+      </div>
+  
+    <br>
+    <button type="submit" style="background-color: blue;"  class="btn btn-primary">Submit</button>
+  </form>
+  
+
+  

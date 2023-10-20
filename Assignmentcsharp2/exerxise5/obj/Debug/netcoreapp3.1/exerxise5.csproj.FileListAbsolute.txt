@@ -1,0 +1,14 @@
+C:\Users\arjunkapoor\Desktop\arjun-kapoor\Assignmentcsharp2\exerxise5\bin\Debug\netcoreapp3.1\exerxise5.exe
+C:\Users\arjunkapoor\Desktop\arjun-kapoor\Assignmentcsharp2\exerxise5\bin\Debug\netcoreapp3.1\exerxise5.deps.json
+C:\Users\arjunkapoor\Desktop\arjun-kapoor\Assignmentcsharp2\exerxise5\bin\Debug\netcoreapp3.1\exerxise5.runtimeconfig.json
+C:\Users\arjunkapoor\Desktop\arjun-kapoor\Assignmentcsharp2\exerxise5\bin\Debug\netcoreapp3.1\exerxise5.runtimeconfig.dev.json
+C:\Users\arjunkapoor\Desktop\arjun-kapoor\Assignmentcsharp2\exerxise5\bin\Debug\netcoreapp3.1\exerxise5.dll
+C:\Users\arjunkapoor\Desktop\arjun-kapoor\Assignmentcsharp2\exerxise5\bin\Debug\netcoreapp3.1\exerxise5.pdb
+C:\Users\arjunkapoor\Desktop\arjun-kapoor\Assignmentcsharp2\exerxise5\obj\Debug\netcoreapp3.1\exerxise5.csproj.AssemblyReference.cache
+C:\Users\arjunkapoor\Desktop\arjun-kapoor\Assignmentcsharp2\exerxise5\obj\Debug\netcoreapp3.1\exerxise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjunkapoor\Desktop\arjun-kapoor\Assignmentcsharp2\exerxise5\obj\Debug\netcoreapp3.1\exerxise5.AssemblyInfoInputs.cache
+C:\Users\arjunkapoor\Desktop\arjun-kapoor\Assignmentcsharp2\exerxise5\obj\Debug\netcoreapp3.1\exerxise5.AssemblyInfo.cs
+C:\Users\arjunkapoor\Desktop\arjun-kapoor\Assignmentcsharp2\exerxise5\obj\Debug\netcoreapp3.1\exerxise5.csproj.CoreCompileInputs.cache
+C:\Users\arjunkapoor\Desktop\arjun-kapoor\Assignmentcsharp2\exerxise5\obj\Debug\netcoreapp3.1\exerxise5.dll
+C:\Users\arjunkapoor\Desktop\arjun-kapoor\Assignmentcsharp2\exerxise5\obj\Debug\netcoreapp3.1\exerxise5.pdb
+C:\Users\arjunkapoor\Desktop\arjun-kapoor\Assignmentcsharp2\exerxise5\obj\Debug\netcoreapp3.1\exerxise5.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+<div *ngIf="tag" class="alert alert-info">
+    <strong>Car has been deleted Refresh</strong> 
+  </div>
+<h1>Admin Interface</h1>
+<table class="styled-table">
+    <thead>
+      <tr>
+        <th>Brand</th>
+        <th>Model</th>
+        <th>Price</th>
+        <th>Options</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let car of cars">
+        <td>{{ car.brand }}</td>
+        <td>{{ car.model }}</td>
+        <td>{{ car.rentPerDay }}</td>
+        <td><button (click)="newdelete(car.carId)"><i class="fa fa-trash" style="font-size:20px;color:red;"></i></button></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  

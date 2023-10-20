@@ -1,0 +1,21 @@
+<div class="alert alert-info">
+  <strong>For admin credential FullName:ArjunKapoor and Email='arjunkapoor@nagarro.com',Otherwise normal Username and email creates your account</strong> 
+</div>
+
+<form [formGroup]="myuser" class="border p-3 rounded-3" (ngSubmit)="RegisterUser()">
+    <h1 style="color: blue;">Login</h1>
+    <div class="form-group">
+      <label for="Full Name"></label>
+      <input style="background-color: whitesmoke;" type="text" class="form-control" id="Full Name" placeholder="Full Name" formControlName="FullName">
+    </div>
+    <div class="form-group">
+      <label for="Email"></label>
+      <input style="background-color: whitesmoke;" type="email" class="form-control" id="Email" formControlName="email" placeholder="Email">
+    </div>
+  
+    <br>
+    <button type="submit" style="background-color: blue;"  class="btn btn-primary">Submit</button>
+  </form>
+  
+  <router-outlet></router-outlet>
+  
